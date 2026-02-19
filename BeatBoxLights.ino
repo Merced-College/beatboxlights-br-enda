@@ -1,3 +1,7 @@
+//Brenda Romero
+//CPSC-25-12703
+//02/19/26
+
 /*
   BeatBoxLights.ino
   Beat Box Lights - Advanced C++ Embedded Systems Lab
